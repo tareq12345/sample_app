@@ -1,8 +1,8 @@
 Rails.application.configure do
 
 
-  # #Allow connections to local server.
-  # config.hosts.clear
+  #Allow connections to local server.
+  config.hosts.clear
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
